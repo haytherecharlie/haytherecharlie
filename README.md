@@ -1,6 +1,4 @@
-<div align="center">
-<h2 align="left">Hi 👋! My name is Charlie and I'm a Software Engineer, from Canada🇨🇦</h2>
-</div>
+<h2 align="center">Hi 👋! My name is Charlie and I'm a Software Engineer, from Canada🇨🇦</h2>
 
 ###
 
