@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Charlie and I'm a Software Engineer / Tech Lead, from Canada🇨🇦</h2>
+<h2 align="left">Hi 👋! My name is Charlie and I'm a Software Engineer, from Canada🇨🇦</h2>
 
 ###
 
